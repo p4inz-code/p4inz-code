@@ -4,37 +4,37 @@
 
 ### @p4inz-code
 
-**Founder • Northbyte Studios**
+**Founder @ Northbyte Studios**
 
-Building premium desktop software focused on **privacy**, **security**, and **developer experience**.
+Crafting premium desktop software with **privacy**, **determinism**, and **native performance** at its core.
 
-*Offline-first • Deterministic • Explainable • Native*
+*Offline-first • Explainable • Native • Security-first*
 
 <br>
 
-[VERIS](#) • [Nexus](#) • [Kanvaz](#)
+[🛡 VERIS](https://github.com/p4inz-code/<VERIS_REPO>) • [🔐 Nexus](https://github.com/p4inz-code/<NEXUS_REPO>) • [🎨 Kanvaz](https://github.com/p4inz-code/<KANVAZ_REPO>)
 
 </div>
 
 ---
 
-# 🚀 Current Work
+# 🚀 Current Projects
 
 | Project | Description | Status |
 |---------|-------------|:------:|
 | 🛡 **VERIS** | Explainable Investigation Platform | 🚧 Beta |
-| 🔐 **Nexus** | Premium AES-256 Desktop Vault | ✅ Released |
-| 🎨 **Kanvaz** | VFX & 3D Reference Board | ✅ Released |
+| 🔐 **Nexus** | Premium AES-256 Encrypted Desktop Vault | 🚀 Launching |
+| 🎨 **Kanvaz** | VFX & 3D Reference Board for Windows | ✅ Released |
 | 🎮 **Untitled Platformer** | Precision 2D Platformer | ⚒️ Active |
 
 ---
 
 # 💻 What I Build
 
-- Desktop Applications
+- Native Desktop Applications
 - Security Software
 - Developer Tools
-- Native Windows Software
+- Windows Internals Projects
 - Indie Games
 
 ---
@@ -43,7 +43,7 @@ Building premium desktop software focused on **privacy**, **security**, and **de
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,electron,react,nextjs,nodejs,cs,dotnet,tailwind,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=ts,electron,react,nextjs,nodejs,cs,dotnet,tailwind,git,vscode" />
 
 </p>
 
@@ -60,13 +60,19 @@ Building premium desktop software focused on **privacy**, **security**, and **de
 
 ---
 
-# 📈 GitHub
+# 📊 GitHub
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=p4inz-code&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=p4inz-code&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4inz-code&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4inz-code&layout=compact&theme=github_dark&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=p4inz-code&theme=github-dark&hide_border=true" />
 
 </p>
 
