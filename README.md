@@ -132,16 +132,31 @@ Shipping products—not demos.
 
 ---
 
-# Development
+# 📈 Development
 
-<p align="center">
+<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=p4inz-code&show_icons=true&theme=github_dark&hide_border=true"/>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4inz-code&layout=compact&theme=github_dark&hide_border=true"/>
+### 📊 GitHub Statistics
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=p4inz-code&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
+</td>
+
+<td align="center" width="50%">
+
+### 💻 Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4inz-code&layout=compact&theme=github_dark&hide_border=true"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 # Northbyte Studios
