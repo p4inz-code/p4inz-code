@@ -1,109 +1,159 @@
 <div align="center">
 
-# 👾 Atharva Patil • p4inz
+# 👾 Atharva Patil
 
-### Building polished desktop software, privacy-first security tools, and developer platforms.
+### @p4inz-code
 
-<p>
-  <a href="https://github.com/p4inz-code">
-    <img src="https://img.shields.io/badge/GitHub-p4inz--code-181717?style=for-the-badge&logo=github">
-  </a>
-  <img src="https://img.shields.io/badge/Location-Mumbai,_India-6f42c1?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Desktop_Engineering-0ea5e9?style=for-the-badge">
-</p>
+Building premium desktop software.
+
+**Privacy-first • Offline-first • Deterministic • Native**
 
 ---
 
-*"I like software that explains itself, respects privacy, and feels premium."*
+*"Good software earns trust through engineering, not marketing."*
 
 </div>
 
 ---
 
-# ⚡ Currently Building
+# Mission
 
-### 🛡️ Veris *(In Development)*
-Offline-first explainable investigation platform.
+I build software that stays fast, private, explainable, and useful years after it's shipped.
 
-- Deterministic analysis
-- Explainable risk engine
-- No telemetry
-- No cloud dependency
-- AI only explains evidence
+My work focuses on desktop software, security engineering, developer tooling, and game development.
+
+Rather than building many projects, I prefer building a few products to a high standard.
 
 ---
 
-### 🔐 Nexus *(Private)*
-Premium encrypted desktop vault.
+# Current Products
 
-- AES-256 encryption
-- Privacy-first
-- Offline-first
-- Windows desktop application
+## 🛡 VERIS
+
+> Explainable Investigation Platform
+
+```
+Status      ███████░░░░░░░░░░  Beta
+
+Platform    Windows
+
+Engine      Deterministic
+
+Privacy     Offline-first
+
+AI          Explanation only
+```
 
 ---
 
-### 🎮 Indie Projects
+## 🔐 Nexus
 
-- Precision platformer
-- Desktop utilities
-- Experimental developer tooling
+> Premium encrypted desktop vault
+
+```
+Status      Released
+
+Encryption  AES-256
+
+Platform    Windows
+
+Privacy     Zero telemetry
+```
 
 ---
 
-# 🚀 Tech Stack
+## 🎨 Kanvaz
+
+> Reference board built for artists.
+
+```
+Released
+```
+
+---
+
+## 👻 Phantom Stream Guard
+
+> Desktop privacy utility for streamers.
+
+```
+In Development
+```
+
+---
+
+# Engineering Principles
+
+```text
+✓ Offline-first
+
+✓ Privacy-first
+
+✓ Deterministic Systems
+
+✓ Explainable Outputs
+
+✓ Native Desktop
+
+✓ Performance before Abstraction
+
+✓ Quality before Quantity
+```
+
+---
+
+# Tech
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,cs,dotnet,electron,react,nextjs,nodejs,tailwind,vite,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=ts,electron,nodejs,cs,dotnet,react,nextjs,tailwind,vite,git"/>
 
 </p>
 
 ---
 
-# 🏆 Featured Projects
+# Current Focus
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🛡️ **Veris** | Explainable investigation platform | 🚧 Building |
-| 🔐 **Nexus** | Premium encrypted desktop vault | 🚧 Private |
-| 🎨 **Kanvas** | VFX & reference board for Windows | ✅ Released |
-| 👻 **Phantom Stream Guard** | Privacy utility for streamers | 🚧 Active |
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+Building VERIS Beta
 
-# 📊 GitHub
+Improving Windows Internals knowledge
 
-<p align="center">
+Desktop UX Engineering
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=p4inz-code&show_icons=true&hide_border=true&theme=tokyonight"/>
+Security Research
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=p4inz-code&theme=tokyonight&hide_border=true"/>
+Shipping products—not demos.
 
-</p>
-
-<p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=p4inz-code&theme=tokyo-night&hide_border=true"/>
-
-</p>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 ---
 
-# 💭 Philosophy
+# Development
 
-> **Deterministic over magical.**
->
-> **Privacy over telemetry.**
->
-> **Quality over quantity.**
->
-> **Explainability over black boxes.**
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=p4inz-code&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4inz-code&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Northbyte Studios
+
+Building software that users can trust.
+
+Desktop • Security • Developer Tools • Games
 
 ---
 
 <div align="center">
 
-### Thanks for visiting 👾
+### Thanks for stopping by.
 
 </div>
