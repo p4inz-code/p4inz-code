@@ -12,7 +12,7 @@ Crafting premium desktop software with **privacy**, **determinism**, and **nativ
 
 <br>
 
-[🛡 VERIS](https://github.com/p4inz-code/<veris>) • [🔐 Nexus](https://github.com/p4inz-code/<nexus>) • [🎨 Kanvaz](https://github.com/p4inz-code/<kanvaz>)
+[🛡 VERIS](https://github.com/p4inz-code/veris) • [🔐 Nexus](https://github.com/p4inz-code/nexus) • [🎨 Kanvaz](https://github.com/p4inz-code/kanvaz)
 
 </div>
 
