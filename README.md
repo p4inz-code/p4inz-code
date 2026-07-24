@@ -1,5 +1,7 @@
 
-<img src="https://raw.githubusercontent.com/p4inz-code/p4inz-code/main/assets/banner.png" width="100%" alt="Atharva Patil Banner">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/p4inz-code/-p4inz-code/main/assets/banner.png" alt="Atharva Patil Banner" width="100%">
+</p>
 
 # Atharva Patil
 
