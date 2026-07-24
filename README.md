@@ -1,87 +1,105 @@
-<div align="center">
+# Atharva Patil
 
-# 👾 Atharva Patil
+> Building software that is private, secure, and built to last.
 
-### @p4inz-code
-
-**Founder @ Northbyte Studios**
-
-Crafting premium desktop software with **privacy**, **determinism**, and **native performance** at its core.
-
-*Offline-first • Explainable • Native • Security-first*
-
-<br>
-
-[🛡 VERIS](https://github.com/p4inz-code/veris) • [🔐 Nexus](https://github.com/p4inz-code/nexus-desktop) • [🎨 Kanvaz](https://github.com/p4inz-code/kanvaz)
-
-</div>
+I enjoy designing systems from first principles—whether that's an operating system, a desktop application, a developer tool, or a security utility. Every project begins with careful planning, clear architecture, and a focus on creating software that remains understandable and maintainable years later.
 
 ---
 
-# 🚀 Current Projects
+## Featured Projects
 
 | Project | Description | Status |
-|---------|-------------|:------:|
-| 🛡 **VERIS** | Explainable Investigation Platform | 🚧 Beta |
-| 🔐 **Nexus** | Premium AES-256 Encrypted Desktop Vault | 🚀 Launching |
-| 🎨 **Kanvaz** | VFX & 3D Reference Board for Windows | ✅ Released |
-| 🎮 **Untitled Platformer** | Precision 2D Platformer | ⚒️ Active |
+|:--------|:------------|:------:|
+| **Mission OS** | Privacy-first, security-focused Linux operating system built on Debian Stable. | 🚧 |
+| **Nexus** | AES-256 encrypted desktop vault with zero-cloud architecture. | 🚀 |
+| **Kanvaz** | Visual workspace for artists, designers, and VFX professionals. | ✅ |
+| **VERIS** | Explainable digital investigation and analysis platform. | 🚧 |
+| **Obscura** | Luau code protection toolkit with AST-based transformations. | 🚧 |
+| **Repo Map** | Repository analysis and documentation generator. | ✅ |
+| **Reference Engineering** | Curated software engineering knowledge base and architecture references. | 📚 |
+| **Project Ascent** | Precision 2D platformer built with Godot. | 🎮 |
 
 ---
 
-# 💻 What I Build
+## Focus Areas
 
+- Operating Systems
+- Linux Desktop Engineering
+- Privacy & Security
 - Native Desktop Applications
-- Security Software
 - Developer Tools
-- Windows Internals Projects
-- Indie Games
+- Software Architecture
+- User Experience Engineering
+- Open Source Software
 
 ---
 
-# ⚙️ Tech Stack
+## Engineering Principles
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,electron,react,nextjs,nodejs,cs,dotnet,tailwind,git,vscode" />
-
-</p>
-
----
-
-# 🎯 Engineering Principles
-
-- Privacy-first
-- Offline-first
-- Deterministic by design
-- Explainable systems
-- Native performance
-- Quality over quantity
+- Privacy by Default
+- Security by Design
+- Offline-first Architecture
+- Deterministic Systems
+- Native Performance
+- Simplicity over Complexity
+- Long-term Maintainability
+- Documentation-driven Development
 
 ---
 
-# 📊 GitHub
+## Technologies
 
-<p align="center">
+**Languages**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=p4inz-code&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+`C#` • `TypeScript` • `JavaScript` • `HTML` • `CSS` • `Luau`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4inz-code&layout=compact&theme=github_dark&hide_border=true" />
+**Frameworks & Platforms**
 
-</p>
+`.NET` • `Avalonia` • `Electron` • `Node.js` • `Debian Linux` • `KDE Plasma` • `Godot`
 
-<p align="center">
+**Tools**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=p4inz-code&theme=github-dark&hide_border=true" />
-
-</p>
+`Git` • `GitHub` • `Visual Studio` • `VS Code` • `Blender` • `Maya` • `ZBrush`
 
 ---
 
-<div align="center">
+## Current Focus
 
-### Building software people can trust.
+```
+Mission OS
+├── UI Design Sprint
+├── Design System
+├── System Architecture
+├── Documentation
+└── Preparing for Implementation
+```
 
-**Northbyte Studios © 2026**
+---
 
-</div>
+## GitHub
+
+Most repositories follow the same workflow:
+
+```
+Research
+    ↓
+Architecture
+    ↓
+Documentation
+    ↓
+Design
+    ↓
+Implementation
+    ↓
+Testing
+    ↓
+Review
+    ↓
+Release
+```
+
+The goal is simple: build software that people can understand, trust, and enjoy using.
+
+---
+
+> *Quality is rarely an accident; it is the result of thoughtful decisions made consistently.*
