@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Atharva Patil Banner">
+</p>
+
 # Atharva Patil
 
 > Building software that values privacy, reliability, and thoughtful engineering.
