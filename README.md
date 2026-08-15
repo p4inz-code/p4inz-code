@@ -1,72 +1,97 @@
-# Atharva Patil
+# P4inz | Atharva Patil
 
-> Building software that values privacy, reliability, security, and thoughtful engineering.
+> Building practical software where premium quality meets accessibility.
 
-I build software across systems, developer tooling, security, creative technology, and programming languages.
+I'm an indie developer focused on building software tools, utilities, and creative technology around problems I believe deserve better solutions.
 
-My work is driven by a simple principle: **good software should be understandable, maintainable, reliable, and built to last.**
+I tend to look for gaps between existing free and premium software—especially places where useful functionality is locked behind unnecessary cost, complexity, or poor accessibility. My goal is to build thoughtful alternatives that prioritize quality, usability, transparency, and long-term value.
 
-I prefer deliberate engineering over rushed implementation—researching the problem, designing the architecture, documenting decisions, implementing carefully, and validating the result before release.
-
----
-
-## Featured Projects
-
-| Project | Description | Stage |
-|---|---|---|
-| **MINK** | General-purpose programming language designed to combine Python-like simplicity, C/C++-class power, and Rust-inspired safety. | ▰▰▰▱▱ Development |
-| **Nexus** | Zero-cloud encrypted personal vault for Windows built around modern cryptography and local-first storage. | ▰▰▰▰▰ Released |
-| **Mission OS** | Privacy-first Linux operating system focused on portability, security, offline use, and everyday reliability. | ▰▰▱▱▱ Frozen |
-| **VERIS** | Explainable digital investigation platform focused on transparent and reproducible analysis. | ▰▰▰▱▱ Frozen |
-| **Kanvaz** | Infinite visual workspace designed for artists, designers, and VFX professionals. | ▰▰▰▰▰ Released |
-| **Obscura** | Open-source Luau code protection toolkit using AST-based transformations. | ▰▰▰▱▱ Development |
-| **Repo Map** | Repository analysis and documentation CLI for developers. | ▰▰▰▰▰ Released |
-| **Reference Engineering** | Curated software engineering references, architecture notes, and engineering practices. | ▰▰▰▰▰ Released |
+My work spans programming languages, systems software, security tools, developer utilities, desktop applications, and creative technology.
 
 ---
 
 ## What I Build
 
 - Programming Languages & Compilers
-- Operating Systems
+- Systems Software
+- Security & Privacy Tools
+- Developer Utilities
 - Desktop Applications
-- Developer Tools
-- Security Software
 - Creative Software
-- Open Source Infrastructure
+- Open Source Projects
+- Experimental Tools & Frameworks
+
+I particularly enjoy building tools that are useful to the communities around me and making technical knowledge easier to access along the way.
+
+---
+
+## Featured Projects
+
+| Project | Description | Status |
+|---|---|---|
+| **MINK** | General-purpose programming language being designed around simplicity, native capability, safety, strong diagnostics, and long-term maintainability. | **Active — Primary** |
+| **Nexus** | Zero-cloud encrypted personal vault for Windows focused on local-first privacy and modern cryptography. | **Released / Development on Hold** |
+| **Mission OS** | Privacy-first Linux operating system focused on portability, security, offline use, and everyday reliability. | **Beta Testing** |
+| **PURSUE OS** | Investigation-focused operating system for OSINT, SOCMINT, GEOINT, CTI, and DFIR workflows. | **Active Development** |
+| **VERIS** | Explainable digital investigation platform focused on transparent analysis. | **Frozen** |
+| **Kanvaz** | Infinite visual workspace for artists, designers, and VFX professionals. | **On Hold** |
+| **Reference Engineering** | Curated software engineering references, architecture notes, and engineering practices. | **Planning Milestone Complete** |
+| **Project Ascent** | Precision 2D platformer being developed with Godot. | **Planned / Future Development** |
+
+### Released Projects
+
+**Nexus** has already reached a working released state across multiple versions.
+
+Beta testers can request access to the current testing program through the repository, issue tracker, or the available contact channels.
 
 ---
 
 ## MINK
 
-**MINK** is currently my primary engineering project.
+**MINK** is my primary engineering project.
 
-The goal is to build a serious general-purpose programming language that brings together capabilities traditionally separated across different languages:
+MINK is a general-purpose programming language being developed around a simple idea:
+
+> **Make powerful software easier to build without making the underlying system unnecessarily weak or unsafe.**
+
+Its long-term direction combines:
 
 - Python-like simplicity
 - C/C++-class systems capability
 - Rust-inspired safety
 - Strong compiler diagnostics
-- Security-conscious design
-- Deterministic tooling
+- Security-conscious engineering
 - Native compilation
-- Long-term maintainability
+- Deterministic tooling
+- Maintainable architecture
 
-The ambition is larger than the language itself.
+The project is being built from the compiler and runtime upward rather than relying on a large existing ecosystem to hide the underlying machinery.
 
-Over time, MINK is intended to grow into an ecosystem of libraries and specialized frameworks for areas where a combination of simplicity, performance, safety, and developer experience can provide a meaningful advantage.
+The long-term goal is not only the language itself. MINK is intended to grow into an ecosystem of libraries and specialized frameworks for areas where its combination of simplicity, performance, safety, and developer experience can provide a meaningful advantage.
 
-The project is being developed incrementally, with correctness and architectural durability taking priority over rushing toward a release.
+Development is deliberately incremental. Features are implemented, tested, audited, documented, and integrated before being considered complete.
+
+---
+
+## How I Approach Software
+
+I don't start with:
+
+> "What can I build?"
+
+I usually start with:
+
+> **"What is missing, unnecessarily difficult, unnecessarily expensive, or poorly designed?"**
+
+From there, I research the problem, study existing solutions, identify their strengths and weaknesses, and design an approach that attempts to solve the underlying problem rather than simply reproduce an existing product.
+
+I care about the difference between something that **works** and something that can actually be **trusted, maintained, understood, and improved**.
 
 ---
 
 ## Engineering Philosophy
 
-Every project begins long before the first line of code.
-
-I believe strong software comes from making good architectural decisions early.
-
-My preferred process is:
+Every serious project follows a structured process:
 
 ```text
 Research
@@ -84,5 +109,7 @@ Implementation
 Testing
     ↓
 Audit
+    ↓
+Review
     ↓
 Release
