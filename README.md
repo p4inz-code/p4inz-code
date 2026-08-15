@@ -53,3 +53,48 @@ Research → Architecture → Specification
                   Documentation
                          ↓
                       Release
+
+I prefer **strong foundations over rushed releases**.
+
+The goal is to build software that remains understandable, maintainable, and useful long after its first release.
+
+---
+
+## Principles
+
+- Privacy by design
+- Security before convenience
+- Quality over artificial feature counts
+- Simplicity without sacrificing capability
+- Documentation as part of engineering
+- Open standards where practical
+- Long-term maintainability
+- Build for people, not metrics
+
+---
+
+## Beyond Code
+
+My work also connects with **3D art, VFX, game development, interface design, and creative technology**.
+
+These disciplines influence how I approach software: powerful systems should still be understandable, usable, and thoughtfully designed.
+
+---
+
+## Find Me
+
+**Website**  
+[atharvapatil.tech](https://atharvapatil.tech)
+
+**GitHub**  
+[@p4inz-code](https://github.com/p4inz-code)
+
+**Instagram**  
+[@atharva.patil.cg](https://instagram.com/atharva.patil.cg)
+
+**Discord — Northbyte Studios**  
+[Join the community](https://discord.gg/8UKt8s5FbW)
+
+---
+
+> **Find a gap. Understand it deeply. Build the solution properly.**
