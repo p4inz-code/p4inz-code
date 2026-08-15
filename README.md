@@ -6,18 +6,18 @@
 
 I’m **Atharva Patil**, known online as **P4inz** — an independent developer building software, developer tools, security utilities, systems, and creative technology.
 
-I usually start with a simple question:
+I usually start with one question:
 
 **What is missing?**
 
-Whether the gap is between free and premium software, complexity and usability, privacy and convenience, or capability and accessibility, I like turning those gaps into practical tools that people can actually use.
+I look for gaps between free and premium software, complexity and usability, privacy and convenience, and capability and accessibility — then build practical tools around those gaps.
 
 ---
 
 ## What I Build
 
 | Area | Focus |
-| --- | --- |
+|---|---|
 | **Systems** | Operating systems, compilers & low-level tooling |
 | **Software** | Desktop applications & utilities |
 | **Security** | Defensive tools & investigation software |
@@ -44,18 +44,12 @@ Whether the gap is between free and premium software, complexity and usability, 
 ## How I Build
 
 ```text
-Research
-   ↓
-Architecture
-   ↓
-Specification
-   ↓
-Implementation
-   ↓
-Testing
-   ↓
-Audit
-   ↓
-Documentation
-   ↓
-Release
+Research → Architecture → Specification
+                         ↓
+                  Implementation
+                         ↓
+              Testing → Audit
+                         ↓
+                  Documentation
+                         ↓
+                      Release
