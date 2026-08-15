@@ -43,7 +43,7 @@ I look for gaps between free and premium software, complexity and usability, pri
 
 ## How I Build
 
-```text
+text
 Research → Architecture → Specification
                          ↓
                   Implementation
