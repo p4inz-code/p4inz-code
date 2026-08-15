@@ -73,27 +73,24 @@ The goal is to build software that remains understandable, maintainable, and use
 
 ---
 
+---
+
 ## Beyond Code
 
-My work also connects with **3D art, VFX, game development, interface design, and creative technology**.
+I also work across **3D art, VFX, game development, interface design, and creative technology**.
 
-These disciplines influence how I approach software: powerful systems should still be understandable, usable, and thoughtfully designed.
+These disciplines shape how I approach software — combining **technical depth, usability, and thoughtful design**.
 
 ---
 
 ## Find Me
 
-**Website**  
-[atharvapatil.tech](https://atharvapatil.tech)
-
-**GitHub**  
-[@p4inz-code](https://github.com/p4inz-code)
-
-**Instagram**  
-[@atharva.patil.cg](https://instagram.com/atharva.patil.cg)
-
-**Discord — Northbyte Studios**  
-[Join the community](https://discord.gg/8UKt8s5FbW)
+| | |
+|---|---|
+| **Website** | [atharvapatil.tech](https://atharvapatil.tech) |
+| **GitHub** | [@p4inz-code](https://github.com/p4inz-code) |
+| **Instagram** | [@atharva.patil.cg](https://instagram.com/atharva.patil.cg) |
+| **Discord** | [Northbyte Studios](https://discord.gg/8UKt8s5FbW) |
 
 ---
 
