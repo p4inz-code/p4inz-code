@@ -4,7 +4,6 @@
 
 <p>
   <a href="https://github.com/p4inz-code?tab=followers"><img src="https://img.shields.io/github/followers/p4inz-code?style=flat-square&color=7c3aed&label=followers" alt="Followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=p4inz-code&label=profile%20views&color=7c3aed&style=flat-square" alt="Profile views">
   <a href="https://github.com/p4inz-code/kanvaz/releases/latest"><img src="https://img.shields.io/github/v/release/p4inz-code/kanvaz?style=flat-square&color=7c3aed&label=Kanvaz" alt="Kanvaz release"></a>
   <a href="https://github.com/p4inz-code/kanvaz/releases"><img src="https://img.shields.io/github/downloads/p4inz-code/kanvaz/total?style=flat-square&color=7c3aed&label=downloads" alt="Kanvaz downloads"></a>
   <a href="https://github.com/p4inz-code/kanvaz/stargazers"><img src="https://img.shields.io/github/stars/p4inz-code/kanvaz?style=flat-square&color=7c3aed&label=stars" alt="Kanvaz stars"></a>
@@ -20,6 +19,16 @@ I usually start with one question:
 **What is missing?**
 
 I look for gaps between free and premium software, complexity and usability, privacy and convenience, and capability and accessibility — then build practical tools around those gaps.
+
+---
+
+## Featured: Kanvaz
+
+<a href="https://github.com/p4inz-code/kanvaz"><img src="https://github.com/p4inz-code/kanvaz/blob/main/assets/banner.png?raw=true" alt="Kanvaz" width="100%"></a>
+
+A free, open-source, offline reference board for VFX, 3D and concept artists. Drop in 3D models, images, video, audio and notes, connect them with typed links, and keep everything on your own machine. No account, no cloud, no subscription.
+
+[Download](https://github.com/p4inz-code/kanvaz/releases/latest) · [Changelog](https://github.com/p4inz-code/kanvaz/blob/main/CHANGELOG.md) · [Report an issue](https://github.com/p4inz-code/kanvaz/issues)
 
 ---
 
@@ -49,6 +58,29 @@ I look for gaps between free and premium software, complexity and usability, pri
 **Nexus** — Zero-cloud encrypted personal vault for Windows.
 
 **VERIS** — Explainable digital investigation platform focused on transparent analysis.
+
+---
+
+## All Projects
+
+| Project | What it is |
+|---|---|
+| [Kanvaz](https://github.com/p4inz-code/kanvaz) | Free, open-source, offline reference board for VFX and 3D artists |
+| [Draft](https://github.com/p4inz-code/Draft) | Cross-platform visual workspace for humans and AI agents |
+| [DocFlow](https://github.com/p4inz-code/docflow) | Offline PDF editor built with Electron, React and TypeScript |
+| [VERIS](https://github.com/p4inz-code/veris) | Explainable, offline-first static security analyzer |
+| [Crossport](https://github.com/p4inz-code/Crossport) | Cross-platform file transfer utility for Windows, macOS and Linux |
+| [Obscura](https://github.com/p4inz-code/obscura) | Luau source protection toolkit |
+| [repo-map](https://github.com/p4inz-code/repo-map) | Architecture overviews for any code repository, in Markdown or JSON |
+| [MINK](https://github.com/p4inz-code/mink) | General-purpose programming language written in Rust |
+| [Mission OS](https://github.com/p4inz-code/mission-os) | Privacy-first, USB-first Linux operating system on Debian Stable |
+| [PURSUE OS](https://github.com/p4inz-code/pursue-os) | Investigation-focused OS for OSINT and digital investigations |
+| [Nexus](https://github.com/p4inz-code/nexus-desktop) | Zero-cloud encrypted desktop vault for Windows |
+| [Project Ascent](https://github.com/p4inz-code/project-ascent) | Offline 2D precision platformer ([itch.io](https://p4inz-code.itch.io/project-ascent)) |
+| [P4inz](https://github.com/p4inz-code/p4inz) | Discord intelligence and community platform for Northbyte Studios |
+| [3D Ref Skills](https://github.com/p4inz-code/3d-ref-skills) | AI skill pack for 3D pre-production reference workflows |
+| [Reference Engineering](https://github.com/p4inz-code/reference-engineering) | Reference engineering library, from app dev to VFX |
+| [Portfolio](https://github.com/p4inz-code/portfolio) | My personal portfolio site |
 
 ---
 
