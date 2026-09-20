@@ -2,6 +2,15 @@
 
 ### Atharva Patil · Independent Developer
 
+<p>
+  <a href="https://github.com/p4inz-code?tab=followers"><img src="https://img.shields.io/github/followers/p4inz-code?style=flat-square&color=7c3aed&label=followers" alt="Followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=p4inz-code&label=profile%20views&color=7c3aed&style=flat-square" alt="Profile views">
+  <a href="https://github.com/p4inz-code/kanvaz/releases/latest"><img src="https://img.shields.io/github/v/release/p4inz-code/kanvaz?style=flat-square&color=7c3aed&label=Kanvaz" alt="Kanvaz release"></a>
+  <a href="https://github.com/p4inz-code/kanvaz/releases"><img src="https://img.shields.io/github/downloads/p4inz-code/kanvaz/total?style=flat-square&color=7c3aed&label=downloads" alt="Kanvaz downloads"></a>
+  <a href="https://github.com/p4inz-code/kanvaz/stargazers"><img src="https://img.shields.io/github/stars/p4inz-code/kanvaz?style=flat-square&color=7c3aed&label=stars" alt="Kanvaz stars"></a>
+  <a href="https://github.com/p4inz-code/kanvaz/commits/main"><img src="https://img.shields.io/github/last-commit/p4inz-code/kanvaz?style=flat-square&color=7c3aed&label=last%20commit" alt="Last commit"></a>
+</p>
+
 > **Finding the gaps between what people need and what existing software provides.**
 
 I’m **Atharva Patil**, known online as **P4inz** — an independent developer building software, developer tools, security utilities, systems, and creative technology.
@@ -29,6 +38,8 @@ I look for gaps between free and premium software, complexity and usability, pri
 
 ## Current Work
 
+**[Kanvaz](https://github.com/p4inz-code/kanvaz)** — Free, open-source, offline reference board for 3D, VFX and concept artists. Drop in models, images, video and notes, connect them, and keep everything on your own machine. [Download it](https://github.com/p4inz-code/kanvaz/releases/latest).
+
 **MINK** — General-purpose programming language focused on simplicity, capability, safety, and long-term reliability.
 
 **Mission OS** — Privacy-first Linux operating system focused on portability, offline use, security, and reliability.
@@ -43,7 +54,7 @@ I look for gaps between free and premium software, complexity and usability, pri
 
 ## How I Build
 
-text
+```text
 Research → Architecture → Specification
                          ↓
                   Implementation
@@ -53,6 +64,7 @@ Research → Architecture → Specification
                   Documentation
                          ↓
                       Release
+```
 
 I prefer **strong foundations over rushed releases**.
 
@@ -70,8 +82,6 @@ The goal is to build software that remains understandable, maintainable, and use
 - Open standards where practical
 - Long-term maintainability
 - Build for people, not metrics
-
----
 
 ---
 
