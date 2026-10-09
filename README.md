@@ -77,7 +77,7 @@ A free, open-source, offline reference board for VFX, 3D and concept artists. Dr
 | [PURSUE OS](https://github.com/p4inz-code/pursue-os) | Investigation-focused OS for OSINT and digital investigations |
 | [Nexus](https://github.com/p4inz-code/nexus-desktop) | Zero-cloud encrypted desktop vault for Windows |
 | [Project Ascent](https://github.com/p4inz-code/project-ascent) | Offline 2D precision platformer ([itch.io](https://p4inz-code.itch.io/project-ascent)) |
-| [P4inz](https://github.com/p4inz-code/p4inz) | Discord intelligence and community platform for Northbyte Studios |
+| [P4inz](https://github.com/p4inz-code/p4inz) | Discord intelligence and community platform for P4inz Interactive Labs © |
 | [3D Ref Skills](https://github.com/p4inz-code/3d-ref-skills) | AI skill pack for 3D pre-production reference workflows |
 | [Reference Engineering](https://github.com/p4inz-code/reference-engineering) | Reference engineering library, from app dev to VFX |
 | [Portfolio](https://github.com/p4inz-code/portfolio) | My personal portfolio site |
@@ -95,7 +95,7 @@ Research → Architecture → Specification
                          ↓
                   Documentation
                          ↓
-                      Release
+                     Release
 ```
 
 I prefer **strong foundations over rushed releases**.
@@ -132,7 +132,7 @@ These disciplines shape how I approach software — combining **technical depth,
 | **Website** | [atharvapatil.tech](https://atharvapatil.tech) |
 | **GitHub** | [@p4inz-code](https://github.com/p4inz-code) |
 | **Instagram** | [@atharva.patil.cg](https://instagram.com/atharva.patil.cg) |
-| **Discord** | [Northbyte Studios](https://discord.gg/8UKt8s5FbW) |
+| **Discord** | [P4inz Interactive Labs ©](https://discord.gg/8UKt8s5FbW) |
 
 ---
 
