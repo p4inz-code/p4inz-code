@@ -1,6 +1,6 @@
 # P4inz
 
-### Atharva Patil · Independent Developer
+### Atharva Patil · independent developer
 
 <p>
   <a href="https://github.com/p4inz-code?tab=followers"><img src="https://img.shields.io/github/followers/p4inz-code?style=flat-square&color=7c3aed&label=followers" alt="Followers"></a>
@@ -12,17 +12,17 @@
 
 > **Finding the gaps between what people need and what existing software provides.**
 
-I’m **Atharva Patil**, known online as **P4inz** — an independent developer building software, developer tools, security utilities, systems, and creative technology.
+I'm **Atharva Patil**, known online as P4inz: an independent developer building software, developer tools, security utilities, systems, and creative technology.
 
 I usually start with one question:
 
 **What is missing?**
 
-I look for gaps between free and premium software, complexity and usability, privacy and convenience, and capability and accessibility — then build practical tools around those gaps.
+I look for gaps between free and premium software, complexity and usability, privacy and convenience, and capability and accessibility. Then build practical tools around those gaps.
 
 ---
 
-## Featured: Kanvaz
+## Featured: kanvaz
 
 <a href="https://github.com/p4inz-code/kanvaz"><img src="https://github.com/p4inz-code/kanvaz/blob/main/assets/banner.png?raw=true" alt="Kanvaz" width="100%"></a>
 
@@ -32,36 +32,36 @@ A free, open-source, offline reference board for VFX, 3D and concept artists. Dr
 
 ---
 
-## What I Build
+## What I build
 
 | Area | Focus |
 |---|---|
-| **Systems** | Operating systems, compilers & low-level tooling |
-| **Software** | Desktop applications & utilities |
-| **Security** | Defensive tools & investigation software |
-| **Developer Tools** | Languages, CLIs & engineering infrastructure |
-| **Creative Technology** | Tools for artists, designers & VFX workflows |
-| **Open Source** | Community tools, references & engineering projects |
+| Systems | Operating systems, compilers & low-level tooling |
+| Software | Desktop applications & utilities |
+| Security | Defensive tools & investigation software |
+| Developer Tools | Languages, CLIs & engineering infrastructure |
+| Creative Technology | Tools for artists, designers & VFX workflows |
+| Open Source | Community tools, references & engineering projects |
 
 ---
 
-## Current Work
+## Current work
 
-**[Kanvaz](https://github.com/p4inz-code/kanvaz)** — Free, open-source, offline reference board for 3D, VFX and concept artists. Drop in models, images, video and notes, connect them, and keep everything on your own machine. [Download it](https://github.com/p4inz-code/kanvaz/releases/latest).
+**[Kanvaz](https://github.com/p4inz-code/kanvaz)**: Free, open-source, offline reference board for 3D, VFX and concept artists. Drop in models, images, video and notes, connect them, and keep everything on your own machine. [Download it](https://github.com/p4inz-code/kanvaz/releases/latest).
 
-**MINK** — General-purpose programming language focused on simplicity, capability, safety, and long-term reliability.
+**MINK**: General-purpose programming language focused on simplicity, capability, safety, and long-term reliability.
 
-**Mission OS** — Privacy-first Linux operating system focused on portability, offline use, security, and reliability.
+**Mission OS**: Privacy-first Linux operating system focused on portability, offline use, security, and reliability.
 
-**PURSUE OS** — Investigation-focused operating system for OSINT, SOCMINT, GEOINT, CTI, and DFIR workflows.
+**PURSUE OS**: Investigation-focused operating system for OSINT, SOCMINT, GEOINT, CTI, and DFIR workflows.
 
-**Nexus** — Zero-cloud encrypted personal vault for Windows.
+**Nexus**, Zero-cloud encrypted personal vault for Windows.
 
-**VERIS** — Explainable digital investigation platform focused on transparent analysis.
+**VERIS**, Explainable digital investigation platform focused on transparent analysis.
 
 ---
 
-## All Projects
+## All projects
 
 | Project | What it is |
 |---|---|
@@ -84,7 +84,7 @@ A free, open-source, offline reference board for VFX, 3D and concept artists. Dr
 
 ---
 
-## How I Build
+## How I build
 
 ```text
 Research → Architecture → Specification
@@ -117,22 +117,22 @@ The goal is to build software that remains understandable, maintainable, and use
 
 ---
 
-## Beyond Code
+## Beyond code
 
 I also work across **3D art, VFX, game development, interface design, and creative technology**.
 
-These disciplines shape how I approach software — combining **technical depth, usability, and thoughtful design**.
+These disciplines shape how I approach software: combining **technical depth, usability, and thoughtful design**.
 
 ---
 
-## Find Me
+## Find me
 
 | | |
 |---|---|
-| **Website** | [atharvapatil.tech](https://atharvapatil.tech) |
-| **GitHub** | [@p4inz-code](https://github.com/p4inz-code) |
-| **Instagram** | [@atharva.patil.cg](https://instagram.com/atharva.patil.cg) |
-| **Discord** | [P4inz Interactive Labs ©](https://discord.gg/8UKt8s5FbW) |
+| Website | [atharvapatil.tech](https://atharvapatil.tech) |
+| GitHub | [@p4inz-code](https://github.com/p4inz-code) |
+| Instagram | [@atharva.patil.cg](https://instagram.com/atharva.patil.cg) |
+| Discord | [P4inz Interactive Labs ©](https://discord.gg/8UKt8s5FbW) |
 
 ---
 
