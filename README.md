@@ -22,7 +22,7 @@ I look for gaps between free and premium software, complexity and usability, pri
 
 ---
 
-## Featured: kanvaz
+## Featured: Kanvaz
 
 <a href="https://github.com/p4inz-code/kanvaz"><img src="https://github.com/p4inz-code/kanvaz/blob/main/assets/banner.png?raw=true" alt="Kanvaz" width="100%"></a>
 
