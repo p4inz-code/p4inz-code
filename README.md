@@ -1,59 +1,42 @@
 <p align="center">
-  <img src="assets/profile/hero-editorial.jpg" alt="P4inz Interactive Labs. P4inz Interactive Labs. Tools for artists and the curious. Built by one person, free, open source, offline first. Featured projects: Kanvaz, MINK, VERIS, DocFlow and Project Ascent." width="100%">
+  <img src="assets/profile/masthead.jpg" alt="P4inz Interactive Labs. Independent software made by one person for artists, developers and the quietly curious. Free, open source, offline first. Navi Mumbai, India." width="100%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/p4inz-code?tab=followers"><img src="https://img.shields.io/github/followers/p4inz-code?style=flat-square&labelColor=1c1a30&color=7c3aed&label=followers" alt="Followers"></a>
-  <a href="https://github.com/p4inz-code/kanvaz/releases/latest"><img src="https://img.shields.io/github/v/release/p4inz-code/kanvaz?style=flat-square&labelColor=1c1a30&color=7c3aed&label=Kanvaz" alt="Kanvaz release"></a>
-  <a href="https://github.com/p4inz-code/kanvaz/releases"><img src="https://img.shields.io/github/downloads/p4inz-code/kanvaz/total?style=flat-square&labelColor=1c1a30&color=7c3aed&label=downloads" alt="Kanvaz downloads"></a>
-  <a href="https://github.com/p4inz-code/kanvaz/stargazers"><img src="https://img.shields.io/github/stars/p4inz-code/kanvaz?style=flat-square&labelColor=1c1a30&color=7c3aed&label=stars" alt="Kanvaz stars"></a>
+  <a href="https://github.com/p4inz-code?tab=followers"><img src="https://img.shields.io/github/followers/p4inz-code?style=flat-square&labelColor=24211f&color=be3a26&label=followers" alt="Followers"></a>
+  <a href="https://github.com/p4inz-code/kanvaz/releases/latest"><img src="https://img.shields.io/github/v/release/p4inz-code/kanvaz?style=flat-square&labelColor=24211f&color=be3a26&label=Kanvaz" alt="Kanvaz release"></a>
+  <a href="https://github.com/p4inz-code/kanvaz/releases"><img src="https://img.shields.io/github/downloads/p4inz-code/kanvaz/total?style=flat-square&labelColor=24211f&color=be3a26&label=downloads" alt="Kanvaz downloads"></a>
+  <a href="https://github.com/p4inz-code/kanvaz/stargazers"><img src="https://img.shields.io/github/stars/p4inz-code/kanvaz?style=flat-square&labelColor=24211f&color=be3a26&label=stars" alt="Kanvaz stars"></a>
 </p>
 
-I build software for the gaps I keep running into: the space between free and premium tools, between powerful and usable, between private and convenient. Most of what is below started as one question, "what is missing?", and a few evenings of not finding the answer elsewhere. Pick any card to open its repo.
+I build software for the gaps I keep running into: the space between free and premium tools, between powerful and usable, between private and convenient. Most of what is below started as one question, "what is missing?", and a few evenings of not finding the answer elsewhere.
 
 ## Start with Kanvaz
 
-<p align="center">
-  <a href="https://github.com/p4inz-code/kanvaz"><img src="assets/profile/start-here.png" width="100%" alt="Kanvaz on a pixel-art monitor: a free, offline reference board for Windows, macOS and Linux, MIT licensed."></a>
-</p>
+<a href="https://github.com/p4inz-code/kanvaz"><img src="https://raw.githubusercontent.com/p4inz-code/kanvaz/main/assets/readme/wall.jpg" alt="Kanvaz boards pinned up like prints on a reference wall" width="100%"></a>
 
-The project most people find me through. A reference board for VFX, 3D and concept artists that never needs an account or a connection: 3D models, images, video, audio and notes on one canvas, linked together and kept on your own machine.
+A reference board for VFX, 3D and concept artists that never needs an account or a connection. Drop in 3D models, images, video, audio and notes, link them together, and keep everything on your own machine. It is the project most people find me through.
 
 [Download](https://github.com/p4inz-code/kanvaz/releases/latest) | [User guide](https://p4inz-code.github.io/kanvaz/guide/) | [Changelog](https://github.com/p4inz-code/kanvaz/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/8UKt8s5FbW)
 
-## More tools for artists
+## Index of work
 
-<table>
-<tr><td><a href="https://github.com/p4inz-code/Draft"><img src="assets/profile/cards/card-Draft.png" alt="Draft" width="440"></a></td><td><a href="https://github.com/p4inz-code/3d-ref-skills"><img src="assets/profile/cards/card-3d-ref-skills.png" alt="3D Ref Skills" width="440"></a></td></tr>
-<tr><td><a href="https://github.com/p4inz-code/reference-engineering"><img src="assets/profile/cards/card-reference-engineering.png" alt="Reference Engineering" width="440"></a></td></tr>
-</table>
-
-## Developer tools and apps
-
-<table>
-<tr><td><a href="https://github.com/p4inz-code/mink"><img src="assets/profile/cards/card-mink.png" alt="MINK" width="440"></a></td><td><a href="https://github.com/p4inz-code/repo-map"><img src="assets/profile/cards/card-repo-map.png" alt="repo-map" width="440"></a></td></tr>
-<tr><td><a href="https://github.com/p4inz-code/obscura"><img src="assets/profile/cards/card-obscura.png" alt="Obscura" width="440"></a></td><td><a href="https://github.com/p4inz-code/docflow"><img src="assets/profile/cards/card-docflow.png" alt="DocFlow" width="440"></a></td></tr>
-<tr><td><a href="https://github.com/p4inz-code/Crossport"><img src="assets/profile/cards/card-Crossport.png" alt="Crossport" width="440"></a></td></tr>
-</table>
-
-## Security and systems
-
-<table>
-<tr><td><a href="https://github.com/p4inz-code/veris"><img src="assets/profile/cards/card-veris.png" alt="VERIS" width="440"></a></td><td><a href="https://github.com/p4inz-code/nexus-desktop"><img src="assets/profile/cards/card-nexus-desktop.png" alt="Nexus" width="440"></a></td></tr>
-<tr><td><a href="https://github.com/p4inz-code/pursue-os"><img src="assets/profile/cards/card-pursue-os.png" alt="PURSUE OS" width="440"></a></td><td><a href="https://github.com/p4inz-code/mission-os"><img src="assets/profile/cards/card-mission-os.png" alt="Mission OS" width="440"></a></td></tr>
-</table>
-
-## A game
-
-<table>
-<tr><td><a href="https://github.com/p4inz-code/project-ascent"><img src="assets/profile/cards/card-project-ascent.png" alt="Project Ascent" width="440"></a></td></tr>
-</table>
-
-## The whole system at a glance
-
-<p align="center">
-  <img src="assets/profile/system.gif" alt="Pixel-art solar system. P4inz is the sun and every project orbits it as a planet." width="100%">
-</p>
+| Project | What it is | Kind |
+|---|---|---|
+| [Kanvaz](https://github.com/p4inz-code/kanvaz) | Free, offline reference board for VFX and 3D artists | Creative tool |
+| [Draft](https://github.com/p4inz-code/Draft) | Visual workspace for humans and AI agents | Creative tool |
+| [3D Ref Skills](https://github.com/p4inz-code/3d-ref-skills) | AI skill pack for 3D pre-production reference workflows | Creative tool |
+| [Reference Engineering](https://github.com/p4inz-code/reference-engineering) | A library on collecting and organizing references | Creative tool |
+| [MINK](https://github.com/p4inz-code/mink) | General-purpose programming language written in Rust | Developer tool |
+| [repo-map](https://github.com/p4inz-code/repo-map) | Architecture overviews for any code repository | Developer tool |
+| [Obscura](https://github.com/p4inz-code/obscura) | Luau source protection toolkit | Developer tool |
+| [DocFlow](https://github.com/p4inz-code/docflow) | Offline PDF editor in Electron, React and TypeScript | App |
+| [Crossport](https://github.com/p4inz-code/Crossport) | File transfer that shows the plan before anything moves | App |
+| [VERIS](https://github.com/p4inz-code/veris) | Explainable, offline-first static security analyzer | Security |
+| [Nexus](https://github.com/p4inz-code/nexus-desktop) | Zero-cloud encrypted desktop vault for Windows | Security |
+| [PURSUE OS](https://github.com/p4inz-code/pursue-os) | Investigation-focused OS for OSINT and digital investigations | Systems |
+| [Mission OS](https://github.com/p4inz-code/mission-os) | Privacy-first, USB-first Linux on Debian Stable | Systems |
+| [Project Ascent](https://github.com/p4inz-code/project-ascent) | Offline 2D precision platformer | Game |
 
 ## How a project gets built
 
