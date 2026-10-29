@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile/wall.jpg" alt="A pinboard of P4inz projects. Atharva Patil at the centre, linked by thread to Kanvaz, Draft, 3D Ref Skills, Reference Engineering, MINK, repo-map, Obscura, DocFlow, Crossport, VERIS, Nexus, PURSUE OS, Mission OS and Project Ascent." width="100%">
+  <img src="assets/profile/hero.gif" alt="Pixel art night city with the P4inz title and two shelves of game cartridges, one per project: Kanvaz, Draft, 3D Ref Skills, Reference Engineering, MINK, repo-map, Obscura, DocFlow, Crossport, VERIS, Nexus, PURSUE OS, Mission OS and Project Ascent." width="100%">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <a href="https://github.com/p4inz-code/kanvaz/commits/main"><img src="https://img.shields.io/github/last-commit/p4inz-code/kanvaz?style=flat-square&color=7c3aed&label=last%20commit" alt="Last commit"></a>
 </p>
 
-I build software for the gaps I keep running into: the space between free and premium tools, between powerful and usable, between private and convenient. Every project on the wall above started as one question, "what is missing?", and a few evenings of not finding the answer elsewhere.
+I build software for the gaps I keep running into: the space between free and premium tools, between powerful and usable, between private and convenient. Every cartridge on the shelf above started as one question, "what is missing?", and a few evenings of not finding the answer elsewhere.
 
 ## Start here: Kanvaz
 
