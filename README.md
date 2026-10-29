@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile/hero-dark.svg">
-    <img src="assets/profile/hero-light.svg" alt="P4inz. Atharva Patil, independent developer. Find a gap, understand it deeply, build the solution properly." width="100%">
-  </picture>
+  <img src="assets/profile/wall.jpg" alt="A pinboard of P4inz projects. Atharva Patil at the centre, linked by thread to Kanvaz, Draft, 3D Ref Skills, Reference Engineering, MINK, repo-map, Obscura, DocFlow, Crossport, VERIS, Nexus, PURSUE OS, Mission OS and Project Ascent." width="100%">
 </p>
 
 <p align="center">
@@ -13,18 +10,7 @@
   <a href="https://github.com/p4inz-code/kanvaz/commits/main"><img src="https://img.shields.io/github/last-commit/p4inz-code/kanvaz?style=flat-square&color=7c3aed&label=last%20commit" alt="Last commit"></a>
 </p>
 
-I build software for the gaps I keep running into: the space between free and premium tools, between powerful and usable, between private and convenient. Most of what is below started as one question, "what is missing?", and a few evenings of not finding the answer elsewhere.
-
-## The map
-
-Every project below is a node. The hub is me, the colors are the kind of problem each one goes after.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile/map-dark.svg">
-    <img src="assets/profile/map-light.svg" alt="A map of P4inz projects. Creative tools: Kanvaz, Draft, 3D Ref Skills, Reference Engineering. Developer tools and apps: MINK, repo-map, Obscura, DocFlow, Crossport. Security and systems: VERIS, Nexus, PURSUE OS, Mission OS. Games: Project Ascent." width="100%">
-  </picture>
-</p>
+I build software for the gaps I keep running into: the space between free and premium tools, between powerful and usable, between private and convenient. Every project on the wall above started as one question, "what is missing?", and a few evenings of not finding the answer elsewhere.
 
 ## Start here: Kanvaz
 
