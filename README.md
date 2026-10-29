@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile/hero.png" alt="P4inz Interactive Labs. A pixel-art night sky with a planet-headed mascot in a long coat, holding a small ringed planet. Tools for artists and the curious, built by one person, free and open." width="100%">
+  <img src="assets/profile/hero-editorial.jpg" alt="P4inz Interactive Labs. P4inz Interactive Labs. Tools for artists and the curious. Built by one person, free, open source, offline first. Featured projects: Kanvaz, MINK, VERIS, DocFlow and Project Ascent." width="100%">
 </p>
 
 <p align="center">
