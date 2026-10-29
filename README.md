@@ -28,6 +28,17 @@ The project most people find me through. A reference board for VFX, 3D and conce
 
 [Download](https://github.com/p4inz-code/kanvaz/releases/latest) | [User guide](https://p4inz-code.github.io/kanvaz/guide/) | [Changelog](https://github.com/p4inz-code/kanvaz/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/8UKt8s5FbW)
 
+## The mascot
+
+The planet-headed figure behind the P4inz name, drawn here in pixel art. The ring is his halo, and the little planet in his hand is whatever he is working on next.
+
+<table align="center">
+<tr>
+<td align="center"><img src="assets/mascot/char-clothed.gif" width="260" alt="Pixel-art mascot with a ringed planet for a head labelled P4INZ, wearing a long violet coat and holding a small orbiting planet"><br><sub>Dressed</sub></td>
+<td align="center"><img src="assets/mascot/char-bare.gif" width="260" alt="The same pixel-art mascot as a bare chrome figure with the ringed P4INZ planet head"><br><sub>Chrome</sub></td>
+</tr>
+</table>
+
 ## Everything else
 
 | Project | What it is |
