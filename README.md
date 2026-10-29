@@ -1,8 +1,11 @@
-# P4inz
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile/hero-dark.svg">
+    <img src="assets/profile/hero-light.svg" alt="P4inz. Atharva Patil, independent developer. Find a gap, understand it deeply, build the solution properly." width="100%">
+  </picture>
+</p>
 
-### Atharva Patil · independent developer
-
-<p>
+<p align="center">
   <a href="https://github.com/p4inz-code?tab=followers"><img src="https://img.shields.io/github/followers/p4inz-code?style=flat-square&color=7c3aed&label=followers" alt="Followers"></a>
   <a href="https://github.com/p4inz-code/kanvaz/releases/latest"><img src="https://img.shields.io/github/v/release/p4inz-code/kanvaz?style=flat-square&color=7c3aed&label=Kanvaz" alt="Kanvaz release"></a>
   <a href="https://github.com/p4inz-code/kanvaz/releases"><img src="https://img.shields.io/github/downloads/p4inz-code/kanvaz/total?style=flat-square&color=7c3aed&label=downloads" alt="Kanvaz downloads"></a>
@@ -10,66 +13,35 @@
   <a href="https://github.com/p4inz-code/kanvaz/commits/main"><img src="https://img.shields.io/github/last-commit/p4inz-code/kanvaz?style=flat-square&color=7c3aed&label=last%20commit" alt="Last commit"></a>
 </p>
 
-> **Finding the gaps between what people need and what existing software provides.**
+I build software for the gaps I keep running into: the space between free and premium tools, between powerful and usable, between private and convenient. Most of what is below started as one question, "what is missing?", and a few evenings of not finding the answer elsewhere.
 
-I'm **Atharva Patil**, known online as P4inz: an independent developer building software, developer tools, security utilities, systems, and creative technology.
+## The map
 
-I usually start with one question:
+Every project below is a node. The hub is me, the colors are the kind of problem each one goes after.
 
-**What is missing?**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile/map-dark.svg">
+    <img src="assets/profile/map-light.svg" alt="A map of P4inz projects. Creative tools: Kanvaz, Draft, 3D Ref Skills, Reference Engineering. Developer tools and apps: MINK, repo-map, Obscura, DocFlow, Crossport. Security and systems: VERIS, Nexus, PURSUE OS, Mission OS. Games: Project Ascent." width="100%">
+  </picture>
+</p>
 
-I look for gaps between free and premium software, complexity and usability, privacy and convenience, and capability and accessibility. Then build practical tools around those gaps.
-
----
-
-## Featured: Kanvaz
+## Start here: Kanvaz
 
 <a href="https://github.com/p4inz-code/kanvaz"><img src="https://github.com/p4inz-code/kanvaz/blob/main/assets/banner.png?raw=true" alt="Kanvaz" width="100%"></a>
 
-A free, open-source, offline reference board for VFX, 3D and concept artists. Drop in 3D models, images, video, audio and notes, connect them with typed links, and keep everything on your own machine. No account, no cloud, no subscription.
+Kanvaz is a free, open-source, offline reference board for VFX, 3D and concept artists. Drop in 3D models, images, video, audio and notes, link them with typed connections, and keep everything on your own machine. There is no account, no cloud and no subscription.
 
-[Download](https://github.com/p4inz-code/kanvaz/releases/latest) · [Changelog](https://github.com/p4inz-code/kanvaz/blob/main/CHANGELOG.md) · [Report an issue](https://github.com/p4inz-code/kanvaz/issues)
+[Download](https://github.com/p4inz-code/kanvaz/releases/latest) | [User guide](https://p4inz-code.github.io/kanvaz/guide/) | [Changelog](https://github.com/p4inz-code/kanvaz/blob/main/CHANGELOG.md) | [Join the Discord](https://discord.gg/8UKt8s5FbW)
 
----
-
-## What I build
-
-| Area | Focus |
-|---|---|
-| Systems | Operating systems, compilers & low-level tooling |
-| Software | Desktop applications & utilities |
-| Security | Defensive tools & investigation software |
-| Developer Tools | Languages, CLIs & engineering infrastructure |
-| Creative Technology | Tools for artists, designers & VFX workflows |
-| Open Source | Community tools, references & engineering projects |
-
----
-
-## Current work
-
-**[Kanvaz](https://github.com/p4inz-code/kanvaz)**: Free, open-source, offline reference board for 3D, VFX and concept artists. Drop in models, images, video and notes, connect them, and keep everything on your own machine. [Download it](https://github.com/p4inz-code/kanvaz/releases/latest).
-
-**MINK**: General-purpose programming language focused on simplicity, capability, safety, and long-term reliability.
-
-**Mission OS**: Privacy-first Linux operating system focused on portability, offline use, security, and reliability.
-
-**PURSUE OS**: Investigation-focused operating system for OSINT, SOCMINT, GEOINT, CTI, and DFIR workflows.
-
-**Nexus**, Zero-cloud encrypted personal vault for Windows.
-
-**VERIS**, Explainable digital investigation platform focused on transparent analysis.
-
----
-
-## All projects
+## Everything else
 
 | Project | What it is |
 |---|---|
-| [Kanvaz](https://github.com/p4inz-code/kanvaz) | Free, open-source, offline reference board for VFX and 3D artists |
 | [Draft](https://github.com/p4inz-code/Draft) | Cross-platform visual workspace for humans and AI agents |
 | [DocFlow](https://github.com/p4inz-code/docflow) | Offline PDF editor built with Electron, React and TypeScript |
 | [VERIS](https://github.com/p4inz-code/veris) | Explainable, offline-first static security analyzer |
-| [Crossport](https://github.com/p4inz-code/Crossport) | Cross-platform file transfer utility for Windows, macOS and Linux |
+| [Crossport](https://github.com/p4inz-code/Crossport) | File transfer utility that shows you the plan before anything moves |
 | [Obscura](https://github.com/p4inz-code/obscura) | Luau source protection toolkit |
 | [repo-map](https://github.com/p4inz-code/repo-map) | Architecture overviews for any code repository, in Markdown or JSON |
 | [MINK](https://github.com/p4inz-code/mink) | General-purpose programming language written in Rust |
@@ -77,53 +49,31 @@ A free, open-source, offline reference board for VFX, 3D and concept artists. Dr
 | [PURSUE OS](https://github.com/p4inz-code/pursue-os) | Investigation-focused OS for OSINT and digital investigations |
 | [Nexus](https://github.com/p4inz-code/nexus-desktop) | Zero-cloud encrypted desktop vault for Windows |
 | [Project Ascent](https://github.com/p4inz-code/project-ascent) | Offline 2D precision platformer ([itch.io](https://p4inz-code.itch.io/project-ascent)) |
-| [P4inz](https://github.com/p4inz-code/p4inz) | Discord intelligence and community platform for P4inz Interactive Labs © |
+| [P4inz](https://github.com/p4inz-code/p4inz) | Discord intelligence and community platform for P4inz Interactive Labs |
 | [3D Ref Skills](https://github.com/p4inz-code/3d-ref-skills) | AI skill pack for 3D pre-production reference workflows |
 | [Reference Engineering](https://github.com/p4inz-code/reference-engineering) | Reference engineering library, from app dev to VFX |
 | [Portfolio](https://github.com/p4inz-code/portfolio) | My personal portfolio site |
 
----
-
-## How I build
+## How a project gets built
 
 ```text
-Research → Architecture → Specification
-                         ↓
-                  Implementation
-                         ↓
-              Testing → Audit
-                         ↓
-                  Documentation
-                         ↓
-                     Release
+research -> architecture -> specification -> implementation -> testing -> audit -> documentation -> release
 ```
 
-I prefer **strong foundations over rushed releases**.
+I would rather ship late with strong foundations than ship fast and rewrite. The aim is software you can still read, maintain and trust long after the first release.
 
-The goal is to build software that remains understandable, maintainable, and useful long after its first release.
+## What I hold to
 
----
-
-## Principles
-
-- Privacy by design
-- Security before convenience
-- Quality over artificial feature counts
-- Simplicity without sacrificing capability
-- Documentation as part of engineering
-- Open standards where practical
-- Long-term maintainability
-- Build for people, not metrics
-
----
+- Privacy by design, and security before convenience.
+- Quality over feature counts.
+- Simple on the surface without giving up capability.
+- Documentation is part of engineering.
+- Open standards where they make sense.
+- Build for people, not metrics.
 
 ## Beyond code
 
-I also work across **3D art, VFX, game development, interface design, and creative technology**.
-
-These disciplines shape how I approach software: combining **technical depth, usability, and thoughtful design**.
-
----
+I also work in 3D art, VFX, game development and interface design. Those fields shape how I build software, mostly by making me care about how a tool feels in the hands of the person using it.
 
 ## Find me
 
@@ -132,11 +82,7 @@ These disciplines shape how I approach software: combining **technical depth, us
 | Website | [atharvapatil.tech](https://atharvapatil.tech) |
 | GitHub | [@p4inz-code](https://github.com/p4inz-code) |
 | Instagram | [@atharva.patil.cg](https://instagram.com/atharva.patil.cg) |
-| Discord | [P4inz Interactive Labs ©](https://discord.gg/8UKt8s5FbW) |
-
----
-
-> **Find a gap. Understand it deeply. Build the solution properly.**
+| Discord | [P4inz Interactive Labs](https://discord.gg/8UKt8s5FbW) |
 
 ---
 
