@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="assets/profile/hero.gif" alt="Pixel art night city with the P4inz title and two shelves of game cartridges, one per project: Kanvaz, Draft, 3D Ref Skills, Reference Engineering, MINK, repo-map, Obscura, DocFlow, Crossport, VERIS, Nexus, PURSUE OS, Mission OS and Project Ascent." width="100%">
+  <img src="assets/profile/system.gif" alt="Pixel-art solar system. P4inz is the sun, and every project orbits it as a planet: Kanvaz, Draft, 3D Ref Skills, Reference Engineering, MINK, repo-map, Obscura, DocFlow, Crossport, VERIS, Nexus, PURSUE OS, Mission OS and Project Ascent." width="100%">
 </p>
+
+<p align="center"><sub>Click a planet to visit it.</sub></p>
+<table align="center">
+<tr><td align="center"><a href="https://github.com/p4inz-code/kanvaz"><img src="assets/profile/planets/planet-kanvaz.png" width="118" alt="Kanvaz"></a></td><td align="center"><a href="https://github.com/p4inz-code/Draft"><img src="assets/profile/planets/planet-Draft.png" width="118" alt="Draft"></a></td><td align="center"><a href="https://github.com/p4inz-code/3d-ref-skills"><img src="assets/profile/planets/planet-3d-ref-skills.png" width="118" alt="3D Ref Skills"></a></td><td align="center"><a href="https://github.com/p4inz-code/reference-engineering"><img src="assets/profile/planets/planet-reference-engineering.png" width="118" alt="Reference Engineering"></a></td><td align="center"><a href="https://github.com/p4inz-code/mink"><img src="assets/profile/planets/planet-mink.png" width="118" alt="MINK"></a></td><td align="center"><a href="https://github.com/p4inz-code/repo-map"><img src="assets/profile/planets/planet-repo-map.png" width="118" alt="repo-map"></a></td><td align="center"><a href="https://github.com/p4inz-code/obscura"><img src="assets/profile/planets/planet-obscura.png" width="118" alt="Obscura"></a></td></tr>
+<tr><td align="center"><a href="https://github.com/p4inz-code/docflow"><img src="assets/profile/planets/planet-docflow.png" width="118" alt="DocFlow"></a></td><td align="center"><a href="https://github.com/p4inz-code/Crossport"><img src="assets/profile/planets/planet-Crossport.png" width="118" alt="Crossport"></a></td><td align="center"><a href="https://github.com/p4inz-code/veris"><img src="assets/profile/planets/planet-veris.png" width="118" alt="VERIS"></a></td><td align="center"><a href="https://github.com/p4inz-code/nexus-desktop"><img src="assets/profile/planets/planet-nexus-desktop.png" width="118" alt="Nexus"></a></td><td align="center"><a href="https://github.com/p4inz-code/pursue-os"><img src="assets/profile/planets/planet-pursue-os.png" width="118" alt="PURSUE OS"></a></td><td align="center"><a href="https://github.com/p4inz-code/mission-os"><img src="assets/profile/planets/planet-mission-os.png" width="118" alt="Mission OS"></a></td><td align="center"><a href="https://github.com/p4inz-code/project-ascent"><img src="assets/profile/planets/planet-project-ascent.png" width="118" alt="Project Ascent"></a></td></tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/p4inz-code?tab=followers"><img src="https://img.shields.io/github/followers/p4inz-code?style=flat-square&color=7c3aed&label=followers" alt="Followers"></a>
@@ -10,15 +16,17 @@
   <a href="https://github.com/p4inz-code/kanvaz/commits/main"><img src="https://img.shields.io/github/last-commit/p4inz-code/kanvaz?style=flat-square&color=7c3aed&label=last%20commit" alt="Last commit"></a>
 </p>
 
-I build software for the gaps I keep running into: the space between free and premium tools, between powerful and usable, between private and convenient. Every cartridge on the shelf above started as one question, "what is missing?", and a few evenings of not finding the answer elsewhere.
+I build software for the gaps I keep running into: the space between free and premium tools, between powerful and usable, between private and convenient. Every planet above started as one question, "what is missing?", and a few evenings of not finding the answer elsewhere.
 
-## Start here: Kanvaz
+## Now showing: Kanvaz
 
-<a href="https://github.com/p4inz-code/kanvaz"><img src="https://github.com/p4inz-code/kanvaz/blob/main/assets/banner.png?raw=true" alt="Kanvaz" width="100%"></a>
+<p align="center">
+  <a href="https://github.com/p4inz-code/kanvaz"><img src="assets/profile/start-here.png" width="100%" alt="Kanvaz on a pixel-art monitor: a free, offline reference board for Windows, macOS and Linux, MIT licensed."></a>
+</p>
 
-Kanvaz is a free, open-source, offline reference board for VFX, 3D and concept artists. Drop in 3D models, images, video, audio and notes, link them with typed connections, and keep everything on your own machine. There is no account, no cloud and no subscription.
+The project most people find me through. A reference board for VFX, 3D and concept artists that never needs an account or a connection: 3D models, images, video, audio and notes on one canvas, linked together and kept on your own machine.
 
-[Download](https://github.com/p4inz-code/kanvaz/releases/latest) | [User guide](https://p4inz-code.github.io/kanvaz/guide/) | [Changelog](https://github.com/p4inz-code/kanvaz/blob/main/CHANGELOG.md) | [Join the Discord](https://discord.gg/8UKt8s5FbW)
+[Download](https://github.com/p4inz-code/kanvaz/releases/latest) | [User guide](https://p4inz-code.github.io/kanvaz/guide/) | [Changelog](https://github.com/p4inz-code/kanvaz/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/8UKt8s5FbW)
 
 ## Everything else
 
