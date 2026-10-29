@@ -24,6 +24,7 @@ A reference board for VFX, 3D and concept artists that never needs an account or
 | Project | What it is | Kind |
 |---|---|---|
 | [Kanvaz](https://github.com/p4inz-code/kanvaz) | Free, offline reference board for VFX and 3D artists | Creative tool |
+| [Kanvaz Mini](https://github.com/p4inz-code/kanvaz-mini) | The quick version of Kanvaz: a small always-on-top reference window | Creative tool |
 | [Draft](https://github.com/p4inz-code/Draft) | Visual workspace for humans and AI agents | Creative tool |
 | [3D Ref Skills](https://github.com/p4inz-code/3d-ref-skills) | AI skill pack for 3D pre-production reference workflows | Creative tool |
 | [Reference Engineering](https://github.com/p4inz-code/reference-engineering) | A library on collecting and organizing references | Creative tool |
