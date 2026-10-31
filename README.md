@@ -31,7 +31,6 @@ A reference board for VFX, 3D and concept artists that never needs an account or
 | [MINK](https://github.com/p4inz-code/mink) | General-purpose programming language written in Rust | Developer tool |
 | [repo-map](https://github.com/p4inz-code/repo-map) | Architecture overviews for any code repository | Developer tool |
 | [Obscura](https://github.com/p4inz-code/obscura) | Luau source protection toolkit | Developer tool |
-| [DocFlow](https://github.com/p4inz-code/docflow) | Offline PDF editor in Electron, React and TypeScript | App |
 | [Crossport](https://github.com/p4inz-code/Crossport) | File transfer that shows the plan before anything moves | App |
 | [VERIS](https://github.com/p4inz-code/veris) | Explainable, offline-first static security analyzer | Security |
 | [Nexus](https://github.com/p4inz-code/nexus-desktop) | Zero-cloud encrypted desktop vault for Windows | Security |
