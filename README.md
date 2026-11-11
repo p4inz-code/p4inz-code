@@ -10,7 +10,7 @@
   <a href="https://github.com/p4inz-code/kanvaz-mini/releases/latest"><img src="https://img.shields.io/github/v/release/p4inz-code/kanvaz-mini?style=flat-square&labelColor=24211f&color=be3a26&label=Kanvaz%20Mini" alt="Kanvaz Mini release"></a>
 </p>
 
-Hi, I'm Atharva. I'm a solo developer and 3D artist in Navi Mumbai, and I make free, offline software for artists and developers. Fifteen projects so far, from a reference board to two operating systems and a programming language. Everything here is open source, none of it needs an account, and most of it never touches the network.
+Hi, I'm Atharva. I'm a solo developer and 3D artist in Navi Mumbai, and I make free, offline software for artists and developers. The main ones are a reference board, an operating system, a programming language and a game. Everything here is open source, none of it needs an account, and most of it never touches the network.
 
 ## Start with Kanvaz
 
@@ -28,27 +28,37 @@ If all you need is a few pictures beside your canvas, [Kanvaz Mini](https://gith
 - Kanvaz Mini 0.2.0 (10 November 2026): lighter colors, a palette tool, composition guides, PNG export, and a stricter security model.
 - Kanvaz Mini 0.1.0 (29 October 2026): the first release, as a separate app from Kanvaz.
 
-## Index of work
+## Main projects
 
-| Project | What it is | Kind |
+| Project | What it is | Status |
 |---|---|---|
-| [Kanvaz](https://github.com/p4inz-code/kanvaz) | Free, offline reference board for VFX and 3D artists | Creative tool |
-| [Kanvaz Mini](https://github.com/p4inz-code/kanvaz-mini) | The quick version of Kanvaz: a small always-on-top reference window | Creative tool |
-| [Draft](https://github.com/p4inz-code/Draft) | Visual workspace for humans and AI agents | Creative tool |
-| [3D Ref Skills](https://github.com/p4inz-code/3d-ref-skills) | AI skill pack for 3D pre-production reference workflows | Creative tool |
-| [Reference Engineering](https://github.com/p4inz-code/reference-engineering) | A library on collecting and organizing references | Creative tool |
-| [outlinedesk](https://github.com/p4inz-code/outlinedesk) | Offline production planner for animation, VFX and game studios | Creative tool |
-| [MINK](https://github.com/p4inz-code/mink) | General-purpose programming language written in Rust | Developer tool |
-| [repo-map](https://github.com/p4inz-code/repo-map) | Architecture overviews for any code repository | Developer tool |
-| [Obscura](https://github.com/p4inz-code/obscura) | Luau source protection toolkit | Developer tool |
-| [Crossport](https://github.com/p4inz-code/Crossport) | File transfer that shows the plan before anything moves | App |
-| [VERIS](https://github.com/p4inz-code/veris) | Explainable, offline-first static security analyzer | Security |
-| [Nexus](https://github.com/p4inz-code/nexus-desktop) | Zero-cloud encrypted desktop vault for Windows | Security |
-| [PURSUE OS](https://github.com/p4inz-code/pursue-os) | Investigation-focused OS for OSINT and digital investigations | Systems |
-| [Mission OS](https://github.com/p4inz-code/mission-os) | Privacy-first, USB-first Linux on Debian Stable | Systems |
-| [Project Ascent](https://github.com/p4inz-code/project-ascent) | Offline 2D precision platformer | Game |
+| [Kanvaz](https://github.com/p4inz-code/kanvaz) | Free, offline reference board for VFX and 3D artists | Stable, on version 9.8, Windows, macOS and Linux |
+| [MINK](https://github.com/p4inz-code/mink) | General-purpose programming language written in Rust | Windows x64 only for now, published on npm |
+| [PURSUE OS](https://github.com/p4inz-code/pursue-os) | Investigation-focused OS for OSINT and digital investigations | V1 beta. Development is complete, hardware testing is still in progress |
+| [Project Ascent](https://github.com/p4inz-code/project-ascent) | Offline 2D precision platformer, 25 levels | Playable, pre-1.0 (v0.14.1) |
+| [outlinedesk](https://github.com/p4inz-code/outlinedesk) | Offline production planner for animation, VFX and game studios | Release candidate for Windows and Linux. The source is private, so the repo holds downloads and guides |
+| [Reference Engineering](https://github.com/p4inz-code/reference-engineering) | A written method for collecting and organizing references | A document library, not an app |
 
-Browse the same projects by tag on the [Kanvaz guide](https://p4inz-code.github.io/kanvaz/guide/more-by-p4inz.html), or read the case studies on [my website](https://atharvapatil.tech).
+<details>
+<summary>More projects</summary>
+
+<br>
+
+| Project | What it is |
+|---|---|
+| [Kanvaz Mini](https://github.com/p4inz-code/kanvaz-mini) | The quick version of Kanvaz: a small always-on-top reference window |
+| [Draft](https://github.com/p4inz-code/Draft) | Visual workspace for humans and AI agents |
+| [3D Ref Skills](https://github.com/p4inz-code/3d-ref-skills) | AI skill pack for 3D pre-production reference workflows |
+| [repo-map](https://github.com/p4inz-code/repo-map) | Architecture overviews for any code repository |
+| [Obscura](https://github.com/p4inz-code/obscura) | Luau source protection toolkit |
+| [Crossport](https://github.com/p4inz-code/Crossport) | File transfer that shows the plan before anything moves |
+| [VERIS](https://github.com/p4inz-code/veris) | Explainable, offline-first static security analyzer |
+| [Nexus](https://github.com/p4inz-code/nexus-desktop) | Zero-cloud encrypted desktop vault for Windows |
+| [Mission OS](https://github.com/p4inz-code/mission-os) | Privacy-first, USB-first Linux on Debian Stable |
+
+</details>
+
+Browse every project by tag on the [Kanvaz guide](https://p4inz-code.github.io/kanvaz/guide/more-by-p4inz.html), or read the case studies on [my website](https://atharvapatil.tech).
 
 ## How a project gets built
 
