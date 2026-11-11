@@ -10,7 +10,7 @@
   <a href="https://github.com/p4inz-code/kanvaz-mini/releases/latest"><img src="https://img.shields.io/github/v/release/p4inz-code/kanvaz-mini?style=flat-square&labelColor=24211f&color=be3a26&label=Kanvaz%20Mini" alt="Kanvaz Mini release"></a>
 </p>
 
-Hi, I'm Atharva. I'm a solo developer and 3D artist in Navi Mumbai, and I make free, offline software for artists and developers. Sixteen projects so far, from a reference board to two operating systems and a programming language. Everything here is open source, none of it needs an account, and most of it never touches the network.
+Hi, I'm Atharva. I'm a solo developer and 3D artist in Navi Mumbai, and I make free, offline software for artists and developers. Fifteen projects so far, from a reference board to two operating systems and a programming language. Everything here is open source, none of it needs an account, and most of it never touches the network.
 
 ## Start with Kanvaz
 
@@ -42,7 +42,6 @@ If all you need is a few pictures beside your canvas, [Kanvaz Mini](https://gith
 | [repo-map](https://github.com/p4inz-code/repo-map) | Architecture overviews for any code repository | Developer tool |
 | [Obscura](https://github.com/p4inz-code/obscura) | Luau source protection toolkit | Developer tool |
 | [Crossport](https://github.com/p4inz-code/Crossport) | File transfer that shows the plan before anything moves | App |
-| [docflow](https://github.com/p4inz-code/docflow) | Offline PDF editor built with Electron, React and TypeScript | App |
 | [VERIS](https://github.com/p4inz-code/veris) | Explainable, offline-first static security analyzer | Security |
 | [Nexus](https://github.com/p4inz-code/nexus-desktop) | Zero-cloud encrypted desktop vault for Windows | Security |
 | [PURSUE OS](https://github.com/p4inz-code/pursue-os) | Investigation-focused OS for OSINT and digital investigations | Systems |
