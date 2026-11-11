@@ -7,17 +7,26 @@
   <a href="https://github.com/p4inz-code/kanvaz/releases/latest"><img src="https://img.shields.io/github/v/release/p4inz-code/kanvaz?style=flat-square&labelColor=24211f&color=be3a26&label=Kanvaz" alt="Kanvaz release"></a>
   <a href="https://github.com/p4inz-code/kanvaz/releases"><img src="https://img.shields.io/github/downloads/p4inz-code/kanvaz/total?style=flat-square&labelColor=24211f&color=be3a26&label=downloads" alt="Kanvaz downloads"></a>
   <a href="https://github.com/p4inz-code/kanvaz/stargazers"><img src="https://img.shields.io/github/stars/p4inz-code/kanvaz?style=flat-square&labelColor=24211f&color=be3a26&label=stars" alt="Kanvaz stars"></a>
+  <a href="https://github.com/p4inz-code/kanvaz-mini/releases/latest"><img src="https://img.shields.io/github/v/release/p4inz-code/kanvaz-mini?style=flat-square&labelColor=24211f&color=be3a26&label=Kanvaz%20Mini" alt="Kanvaz Mini release"></a>
 </p>
 
-I build software for the gaps I keep running into: the space between free and premium tools, between powerful and usable, between private and convenient. Most of what is below started as one question, "what is missing?", and a few evenings of not finding the answer elsewhere.
+Hi, I'm Atharva. I'm a solo developer and 3D artist in Navi Mumbai, and I make free, offline software for artists and developers. Sixteen projects so far, from a reference board to two operating systems and a programming language. Everything here is open source, none of it needs an account, and most of it never touches the network.
 
 ## Start with Kanvaz
 
 <a href="https://github.com/p4inz-code/kanvaz"><img src="https://raw.githubusercontent.com/p4inz-code/kanvaz/main/assets/readme/wall.jpg" alt="Kanvaz boards pinned up like prints on a reference wall" width="100%"></a>
 
-A reference board for VFX, 3D and concept artists that never needs an account or a connection. Drop in 3D models, images, video, audio and notes, link them together, and keep everything on your own machine. It is the project most people find me through.
+Kanvaz is a reference board for VFX, 3D and concept artists. Drop in images, video, audio, 3D models, PDFs and notes, wire them together in Map View, and keep it all on your own machine. It opens PureRef boards, and it can stay on top of your other windows while you work. It is the project most people find me through.
+
+If all you need is a few pictures beside your canvas, [Kanvaz Mini](https://github.com/p4inz-code/kanvaz-mini) is the small version: one window that floats on top, opens in a second, and can pull the main colors out of a picture.
 
 [Download](https://github.com/p4inz-code/kanvaz/releases/latest) | [User guide](https://p4inz-code.github.io/kanvaz/guide/) | [Changelog](https://github.com/p4inz-code/kanvaz/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/8UKt8s5FbW)
+
+## Recently shipped
+
+- Kanvaz 9.8.4 (10 November 2026): Electron 45, dependency updates, and a rebuilt guide site with search, screenshots and a page linking all my projects.
+- Kanvaz Mini 0.2.0 (10 November 2026): lighter colors, a palette tool, composition guides, PNG export, and a stricter security model.
+- Kanvaz Mini 0.1.0 (29 October 2026): the first release, as a separate app from Kanvaz.
 
 ## Index of work
 
@@ -28,15 +37,19 @@ A reference board for VFX, 3D and concept artists that never needs an account or
 | [Draft](https://github.com/p4inz-code/Draft) | Visual workspace for humans and AI agents | Creative tool |
 | [3D Ref Skills](https://github.com/p4inz-code/3d-ref-skills) | AI skill pack for 3D pre-production reference workflows | Creative tool |
 | [Reference Engineering](https://github.com/p4inz-code/reference-engineering) | A library on collecting and organizing references | Creative tool |
+| [outlinedesk](https://github.com/p4inz-code/outlinedesk) | Offline production planner for animation, VFX and game studios | Creative tool |
 | [MINK](https://github.com/p4inz-code/mink) | General-purpose programming language written in Rust | Developer tool |
 | [repo-map](https://github.com/p4inz-code/repo-map) | Architecture overviews for any code repository | Developer tool |
 | [Obscura](https://github.com/p4inz-code/obscura) | Luau source protection toolkit | Developer tool |
 | [Crossport](https://github.com/p4inz-code/Crossport) | File transfer that shows the plan before anything moves | App |
+| [docflow](https://github.com/p4inz-code/docflow) | Offline PDF editor built with Electron, React and TypeScript | App |
 | [VERIS](https://github.com/p4inz-code/veris) | Explainable, offline-first static security analyzer | Security |
 | [Nexus](https://github.com/p4inz-code/nexus-desktop) | Zero-cloud encrypted desktop vault for Windows | Security |
 | [PURSUE OS](https://github.com/p4inz-code/pursue-os) | Investigation-focused OS for OSINT and digital investigations | Systems |
 | [Mission OS](https://github.com/p4inz-code/mission-os) | Privacy-first, USB-first Linux on Debian Stable | Systems |
 | [Project Ascent](https://github.com/p4inz-code/project-ascent) | Offline 2D precision platformer | Game |
+
+Browse the same projects by tag on the [Kanvaz guide](https://p4inz-code.github.io/kanvaz/guide/more-by-p4inz.html), or read the case studies on [my website](https://atharvapatil.tech).
 
 ## How a project gets built
 
@@ -44,17 +57,16 @@ A reference board for VFX, 3D and concept artists that never needs an account or
 research -> architecture -> specification -> implementation -> testing -> audit -> documentation -> release
 ```
 
-I would rather ship late with strong foundations than ship fast and rewrite. The aim is software you can still read, maintain and trust long after the first release.
+I would rather ship late with strong foundations than ship fast and rewrite. A release is not done when the build passes. It is done when I have run the real app, checked the download against its checksum, and updated the changelog.
 
 ## What I hold to
 
-- Privacy by design, and security before convenience.
-- Quality over feature counts.
-- Simple on the surface without giving up capability.
-- Documentation is part of engineering.
-- Build for people, not metrics.
+- Privacy by design. Kanvaz Mini blocks every network request, and a test checks that.
+- Security before convenience. A weekly automated check lints the code and audits its dependencies.
+- Documentation is part of the work. Every Kanvaz release updates the changelog, the security notes and the guide.
+- Simple on the surface. Mini has no panels and nothing to set up, even though Kanvaz underneath is a large app.
 
-I also work in 3D art, VFX, game development and interface design. Those fields shape how I build software, mostly by making me care about how a tool feels in the hands of the person using it.
+I also work in 3D art, VFX, game development and interface design. Those fields shape how I build software, mostly by making me care how a tool feels in the hands of the person using it.
 
 ## Find me
 
@@ -62,6 +74,7 @@ I also work in 3D art, VFX, game development and interface design. Those fields 
 |---|---|
 | Website | [atharvapatil.tech](https://atharvapatil.tech) |
 | GitHub | [@p4inz-code](https://github.com/p4inz-code) |
+| LinkedIn | [in/p4inz](https://www.linkedin.com/in/p4inz) |
 | Instagram | [@atharva.patil.cg](https://instagram.com/atharva.patil.cg) |
 | Discord | [P4inz Interactive Labs](https://discord.gg/8UKt8s5FbW) |
 
