@@ -33,11 +33,11 @@ If all you need is a few pictures beside your canvas, [Kanvaz Mini](https://gith
 | Project | What it is | Status |
 |---|---|---|
 | [Kanvaz](https://github.com/p4inz-code/kanvaz) | Free, offline reference board for VFX and 3D artists | Stable, on version 9.8, Windows, macOS and Linux |
-| [MINK](https://github.com/p4inz-code/mink) | General-purpose programming language written in Rust | Windows x64 only for now, published on npm |
-| [PURSUE OS](https://github.com/p4inz-code/pursue-os) | Investigation-focused OS for OSINT and digital investigations | V1 beta. Development is complete, hardware testing is still in progress |
-| [Project Ascent](https://github.com/p4inz-code/project-ascent) | Offline 2D precision platformer, 25 levels | Playable, pre-1.0 (v0.14.1) |
-| [outlinedesk](https://github.com/p4inz-code/outlinedesk) | Offline production planner for animation, VFX and game studios | Release candidate for Windows and Linux. The source is private, so the repo holds downloads and guides |
-| [Reference Engineering](https://github.com/p4inz-code/reference-engineering) | A written method for collecting and organizing references | A document library, not an app |
+| [MINK](https://github.com/p4inz-code/mink) | General-purpose programming language written in Rust | In active development, next release in about a month. Windows x64 only for now |
+| [PURSUE OS](https://github.com/p4inz-code/pursue-os) | Investigation-focused OS for OSINT and digital investigations | V1 beta. Development is done and testing should finish in about a month |
+| [Project Ascent](https://github.com/p4inz-code/project-ascent) | Offline 2D precision platformer, 25 levels | Under redesign. The mechanics and code stay, the UI and UX are being reworked, and more content is coming |
+| [outlinedesk](https://github.com/p4inz-code/outlinedesk) | Offline production planner for animation, VFX and game studios | In private beta, on release candidate 1. The source is private, so the repo holds downloads and guides |
+| [Reference Engineering](https://github.com/p4inz-code/reference-engineering) | A written method for collecting, organizing and applying references in pre-production | My long-term project. It is on pause until I have time, and I will return to it with deeper research |
 
 <details>
 <summary>More projects</summary>
