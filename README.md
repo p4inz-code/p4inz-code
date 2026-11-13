@@ -12,7 +12,7 @@
 
 I'm Atharva, a solo developer and 3D artist in Navi Mumbai. I build desktop tools, two operating systems, a programming language and a game. Most of it runs on your own computer and works offline.
 
-Many of these projects are free and open source. A few keep their source private and use licence keys, and each one below says which. Start with these three, which are free and open source.
+I usually make free, open source software. A few of my apps are paid or closed source, and each project below says which. Start with these three, which are free and open source.
 
 <table>
 <tr>
