@@ -5,88 +5,90 @@
 <p align="center">
   <a href="https://github.com/p4inz-code?tab=followers"><img src="https://img.shields.io/github/followers/p4inz-code?style=flat-square&labelColor=24211f&color=be3a26&label=followers" alt="Followers"></a>
   <a href="https://github.com/p4inz-code/kanvaz/releases/latest"><img src="https://img.shields.io/github/v/release/p4inz-code/kanvaz?style=flat-square&labelColor=24211f&color=be3a26&label=Kanvaz" alt="Kanvaz release"></a>
-  <a href="https://github.com/p4inz-code/kanvaz/releases"><img src="https://img.shields.io/github/downloads/p4inz-code/kanvaz/total?style=flat-square&labelColor=24211f&color=be3a26&label=downloads" alt="Kanvaz downloads"></a>
-  <a href="https://github.com/p4inz-code/kanvaz/stargazers"><img src="https://img.shields.io/github/stars/p4inz-code/kanvaz?style=flat-square&labelColor=24211f&color=be3a26&label=stars" alt="Kanvaz stars"></a>
-  <a href="https://github.com/p4inz-code/kanvaz-mini/releases/latest"><img src="https://img.shields.io/github/v/release/p4inz-code/kanvaz-mini?style=flat-square&labelColor=24211f&color=be3a26&label=Kanvaz%20Mini" alt="Kanvaz Mini release"></a>
+  <a href="https://github.com/p4inz-code/kanvaz/stargazers"><img src="https://img.shields.io/github/stars/p4inz-code/kanvaz?style=flat-square&labelColor=24211f&color=be3a26&label=Kanvaz%20stars" alt="Kanvaz stars"></a>
   <a href="https://github.com/p4inz-code/kinoz/releases/latest"><img src="https://img.shields.io/github/v/release/p4inz-code/kinoz?style=flat-square&labelColor=24211f&color=be3a26&label=kinoz" alt="kinoz release"></a>
   <a href="https://github.com/p4inz-code/TextRepairo/releases/latest"><img src="https://img.shields.io/github/v/release/p4inz-code/TextRepairo?style=flat-square&labelColor=24211f&color=be3a26&label=TextRepairo" alt="TextRepairo release"></a>
 </p>
 
-Hi, I'm Atharva. I'm a solo developer and 3D artist in Navi Mumbai, and I make free, offline software for artists and developers. The main ones are a reference board, a media player, a text fixer, an operating system, a programming language and a game. Everything here is open source, none of it needs an account, and most of it never touches the network.
+I'm Atharva, a solo developer and 3D artist in Navi Mumbai. I build free software that runs on your own computer. No account, no subscription, and most of it never touches the network.
 
-## Start with Kanvaz
+Everything here is open source, and the links below go straight to the downloads. Start with one of these three.
 
+<table>
+<tr>
+<td width="33%" valign="top">
 <a href="https://github.com/p4inz-code/kanvaz"><img src="https://raw.githubusercontent.com/p4inz-code/kanvaz/main/assets/readme/wall.jpg" alt="Kanvaz boards pinned up like prints on a reference wall" width="100%"></a>
+<h3>Kanvaz</h3>
+A reference board for VFX, 3D and concept artists. Drop in images, video, 3D models, PDFs and notes, link them in Map View, and keep it all on your machine. It opens PureRef boards.<br><br>
+<a href="https://github.com/p4inz-code/kanvaz/releases/latest">Download</a> · <a href="https://p4inz-code.github.io/kanvaz/guide/">Guide</a>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/p4inz-code/kinoz"><img src="https://raw.githubusercontent.com/p4inz-code/kinoz/main/assets/readme/hero.png" alt="kinoz playing a video in the dark theme" width="100%"></a>
+<h3>kinoz</h3>
+One calm window for the videos, music, images and GIFs already on your computer. It plays almost anything without codec packs, and it asks for no account.<br><br>
+<a href="https://github.com/p4inz-code/kinoz/releases/latest">Download</a> · <a href="https://github.com/p4inz-code/kinoz">Source</a>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/p4inz-code/TextRepairo"><img src="https://raw.githubusercontent.com/p4inz-code/TextRepairo/main/docs/screenshot-dark.jpg" alt="TextRepairo turning a messy message into clear English" width="100%"></a>
+<h3>TextRepairo</h3>
+Paste messy text in any language and get clear, natural English back. A small AI model runs on your computer, so what you write stays with you.<br><br>
+<a href="https://github.com/p4inz-code/TextRepairo/releases/latest">Download</a> · <a href="https://github.com/p4inz-code/TextRepairo">Source</a>
+</td>
+</tr>
+</table>
 
-Kanvaz is a reference board for VFX, 3D and concept artists. Drop in images, video, audio, 3D models, PDFs and notes, wire them together in Map View, and keep it all on your own machine. It opens PureRef boards, and it can stay on top of your other windows while you work. It is the project most people find me through.
+## Latest
 
-If all you need is a few pictures beside your canvas, [Kanvaz Mini](https://github.com/p4inz-code/kanvaz-mini) is the small version: one window that floats on top, opens in a second, and can pull the main colors out of a picture.
+- **TextRepairo 0.2** (13 November 2026): a real progress bar, eleven writing styles with three formality levels, and a history of your last 100 results. 0.2.1 followed the same day with security fixes.
+- **kinoz 0.2.1** (13 November 2026): a Privacy page, controls that fade while a video plays, and better macOS and Linux support.
+- **Kanvaz 9.8.6** (13 November 2026): cut cards with Ctrl+X, and a plain zip of the Windows app.
+- **DownloadForge Pro 1.3.1** (13 November 2026): resolvers for Poly Haven, Sketchfab, CGTrader and TurboSquid.
+- **Kanvaz Mini 0.2.0** (10 November 2026): a palette tool, composition guides and PNG export.
 
-[Download](https://github.com/p4inz-code/kanvaz/releases/latest) | [User guide](https://p4inz-code.github.io/kanvaz/guide/) | [Changelog](https://github.com/p4inz-code/kanvaz/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/8UKt8s5FbW)
+## More from the lab
 
-## Recently shipped
-
-- TextRepairo 0.2.1 (13 November 2026): security fixes after a code scan. Error messages in the app no longer carry internal details, and picking a model or slang pack is stricter.
-- TextRepairo 0.2.0 (13 November 2026): a real progress bar, eleven writing styles with three formality levels, and a history of your last 100 results.
-- kinoz 0.2.1 (13 November 2026): a Privacy page with Private mode and Clean identity, controls that fade while a video plays, and better support on macOS and Linux.
-- Kanvaz 9.8.6 (13 November 2026): cut cards with Ctrl+X, and a plain zip of the Windows app that does not unpack itself on every start.
-- DownloadForge Pro 1.3.1 (13 November 2026): resolvers for Poly Haven, Sketchfab, CGTrader and TurboSquid, and one clean 3D model per zip.
-- Kanvaz Mini 0.2.0 (10 November 2026): lighter colors, a palette tool, composition guides, PNG export, and a stricter security model.
-
-## Main projects
-
-| Project | What it is | Status |
+| Project | What it is | Where it stands |
 |---|---|---|
-| [Kanvaz](https://github.com/p4inz-code/kanvaz) | Free, offline reference board for VFX and 3D artists | Stable, on version 9.8, Windows, macOS and Linux |
-| [kinoz](https://github.com/p4inz-code/kinoz) | Calm, offline media player for videos, music, images and GIFs | Version 0.2, free software (GPLv3). Windows is the one I test hardest. The macOS and Linux builds come from CI |
-| [TextRepairo](https://github.com/p4inz-code/TextRepairo) | Offline text fixer: messy text in any language becomes clear, natural English, using a local AI model | Version 0.2, free software (GPLv3). Same story as kinoz: tested on Windows, built by CI for macOS and Linux |
-| [MINK](https://github.com/p4inz-code/mink) | General-purpose programming language written in Rust | In active development, next release in about a month. Windows x64 only for now |
-| [PURSUE OS](https://github.com/p4inz-code/pursue-os) | Investigation-focused OS for OSINT and digital investigations | V1 beta. Development is done and testing should finish in about a month |
-| [Project Ascent](https://github.com/p4inz-code/project-ascent) | Offline 2D precision platformer, 25 levels | Under redesign. The mechanics and code stay, the UI and UX are being reworked, and more content is coming |
-| [outlinedesk](https://github.com/p4inz-code/outlinedesk) | Offline production planner for animation, VFX and game studios | In private beta, on release candidate 1. The source is private, so the repo holds downloads and guides |
-| [Reference Engineering](https://github.com/p4inz-code/reference-engineering) | A written method for collecting, organizing and applying references in pre-production | My long-term project. It is on pause until I have time, and I will return to it with deeper research |
+| [Kanvaz Mini](https://github.com/p4inz-code/kanvaz-mini) | The quick version of Kanvaz: a small always-on-top reference window | Version 0.2 |
+| [MINK](https://github.com/p4inz-code/mink) | A general-purpose programming language written in Rust | In active development, next release in about a month. Windows x64 for now |
+| [PURSUE OS](https://github.com/p4inz-code/pursue-os) | An operating system for OSINT and digital investigations | V1 beta, in testing |
+| [Project Ascent](https://github.com/p4inz-code/project-ascent) | An offline 2D precision platformer with 25 levels | Being redesigned. The mechanics stay, the interface is being reworked |
+| [outlinedesk](https://github.com/p4inz-code/outlinedesk) | An offline production planner for animation, VFX and game studios | In private beta. This repo holds downloads and guides |
 
 <details>
-<summary>More projects</summary>
+<summary>Smaller tools and long-term projects</summary>
 
 <br>
 
 | Project | What it is |
 |---|---|
-| [Kanvaz Mini](https://github.com/p4inz-code/kanvaz-mini) | The quick version of Kanvaz: a small always-on-top reference window |
-| [Glint](https://github.com/p4inz-code/Glint) | Windows tray utility for display brightness and audio volume |
-| [DownloadForge Pro](https://github.com/p4inz-code/downloadforge-pro) | Video downloader and stream recorder extension for Chromium |
-| [Ropework](https://github.com/p4inz-code/ropework) | Calm desktop client for Perforce Helix Core. The repo holds downloads, guides and release notes |
-| [p4inz](https://github.com/p4inz-code/p4inz) | Open-source Discord intelligence and community platform |
-| [Draft](https://github.com/p4inz-code/Draft) | Visual workspace for humans and AI agents |
-| [3D Ref Skills](https://github.com/p4inz-code/3d-ref-skills) | AI skill pack for 3D pre-production reference workflows |
-| [repo-map](https://github.com/p4inz-code/repo-map) | Architecture overviews for any code repository |
-| [Obscura](https://github.com/p4inz-code/obscura) | Luau source protection toolkit |
+| [Nexus](https://github.com/p4inz-code/nexus-desktop) | An encrypted desktop vault for Windows, with no cloud |
+| [VERIS](https://github.com/p4inz-code/veris) | An offline static security analyzer that explains what it finds |
 | [Crossport](https://github.com/p4inz-code/Crossport) | File transfer that shows the plan before anything moves |
-| [VERIS](https://github.com/p4inz-code/veris) | Explainable, offline-first static security analyzer |
-| [Nexus](https://github.com/p4inz-code/nexus-desktop) | Zero-cloud encrypted desktop vault for Windows |
-| [Mission OS](https://github.com/p4inz-code/mission-os) | Privacy-first, USB-first Linux on Debian Stable |
+| [Glint](https://github.com/p4inz-code/Glint) | A Windows tray utility for display brightness and audio volume |
+| [DownloadForge Pro](https://github.com/p4inz-code/downloadforge-pro) | A video downloader and stream recorder extension for Chromium |
+| [Ropework](https://github.com/p4inz-code/ropework) | A desktop client for Perforce Helix Core. The repo holds downloads and guides |
+| [Mission OS](https://github.com/p4inz-code/mission-os) | A privacy-first, USB-first Linux on Debian Stable |
+| [Obscura](https://github.com/p4inz-code/obscura) | A Luau source protection toolkit |
+| [repo-map](https://github.com/p4inz-code/repo-map) | Architecture overviews for any code repository |
+| [Draft](https://github.com/p4inz-code/Draft) | A visual workspace for humans and AI agents |
+| [3D Ref Skills](https://github.com/p4inz-code/3d-ref-skills) | An AI skill pack for 3D pre-production reference work |
+| [Reference Engineering](https://github.com/p4inz-code/reference-engineering) | A written method for collecting and using references in pre-production. A long-term project that is paused for now |
+| [p4inz](https://github.com/p4inz-code/p4inz) | An open-source Discord community platform |
 
 </details>
 
-Browse every project by tag on the [Kanvaz guide](https://p4inz-code.github.io/kanvaz/guide/more-by-p4inz.html), or read the case studies on [my website](https://atharvapatil.tech).
+Case studies and the full list are on [my website](https://atharvapatil.tech).
 
-## How a project gets built
+## How I build
 
-```text
-research -> architecture -> specification -> implementation -> testing -> audit -> documentation -> release
-```
+I would rather ship late with solid foundations than ship fast and rewrite. A release is done when I have run the real app, checked the download against its checksum and updated the changelog.
 
-I would rather ship late with strong foundations than ship fast and rewrite. A release is not done when the build passes. It is done when I have run the real app, checked the download against its checksum, and updated the changelog.
+- **Private by design.** Kanvaz Mini blocks every network request, and a test checks it.
+- **Security before convenience.** Dependencies are audited and the code is scanned automatically.
+- **Simple on the surface.** The tool should feel easy in the hands of the person using it, however much is going on underneath.
 
-## What I hold to
-
-- Privacy by design. Kanvaz Mini blocks every network request, and a test checks that.
-- Security before convenience. A weekly automated check lints the code and audits its dependencies.
-- Documentation is part of the work. Every Kanvaz release updates the changelog, the security notes and the guide.
-- Simple on the surface. Mini has no panels and nothing to set up, even though Kanvaz underneath is a large app.
-
-I also work in 3D art, VFX, game development and interface design. Those fields shape how I build software, mostly by making me care how a tool feels in the hands of the person using it.
+I also work in 3D art, VFX, game development and interface design. That is why I care so much about how a tool feels.
 
 ## Find me
 
@@ -97,6 +99,8 @@ I also work in 3D art, VFX, game development and interface design. Those fields 
 | LinkedIn | [in/p4inz](https://www.linkedin.com/in/p4inz) |
 | Instagram | [@atharva.patil.cg](https://instagram.com/atharva.patil.cg) |
 | Discord | [P4inz Interactive Labs](https://discord.gg/8UKt8s5FbW) |
+
+If you like what you see, a follow or a star on a project helps other people find it.
 
 ---
 
